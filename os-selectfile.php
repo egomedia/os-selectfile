@@ -1,11 +1,9 @@
 <?php
 /*
 Plugin Name: OS Select File
-Plugin URI: http://www.egomedia.co.uk/
 Description: Allows admin to select a single file from all those attached to post.
 Version: 0.3
 Author: Oli Salisbury
-Author URI: http://www.egomedia.co.uk/
 */
 
 //hooks
